@@ -1,0 +1,7 @@
+total 52
+-rw------- 1 dcuuser dcuuser     0 Nov 24 11:23 out.txt
+-rw------- 1 dcuuser dcuuser    14 Nov 24 11:19 output1.txt
+-rwxr-xr-x 1 dcuuser dcuuser 16912 Nov 24 11:19 p5-1
+-rwxr-xr-x 1 dcuuser dcuuser 17136 Nov 24 11:23 p5-2
+-rw-r--r-- 1 dcuuser dcuuser   281 Nov 24 11:19 prob5-1.c
+-rw-r--r-- 1 dcuuser dcuuser   485 Nov 24 11:23 prob5-2.c
